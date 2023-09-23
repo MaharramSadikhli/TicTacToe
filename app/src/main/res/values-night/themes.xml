@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TicTacToeAppp" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+         <item name="colorPrimary">#2F365E</item>
+         <item name="colorPrimaryDark">#A12F365E</item>
+        <item name="colorAccent">#fff</item>
+    </style>
+</resources>
